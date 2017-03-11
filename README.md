@@ -2,7 +2,7 @@
 
 #Story
 
-A major pizzeria's ordering system has just went down and are in need of some immediate help. Their system only accepts orders in the form of javascript objects. They have asked us to fix their orders manually until they can get their system back up and running. Lets use our rock star knowledge to help them get their orders proccessed quickly.
+A major pizzeria's ordering system has just went down and are in need of some immediate help. Their system only accepts orders in the form of javascript objects. They have asked us to fix their orders manually until they can get their system back up and running. Let's use our rock star knowledge to help them get their orders proccessed quickly.
 
 #Your Mission
 
